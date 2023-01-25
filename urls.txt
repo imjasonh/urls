@@ -1,0 +1,3 @@
+https://www.googleapis.com/oauth2/v3/certs
+https://www.googleapis.com/oauth2/v2/certs
+https://www.googleapis.com/oauth2/v1/certs
