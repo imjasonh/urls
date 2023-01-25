@@ -1,3 +1,7 @@
+# Google OIDC token keys
 https://www.googleapis.com/oauth2/v3/certs
 https://www.googleapis.com/oauth2/v2/certs
 https://www.googleapis.com/oauth2/v1/certs
+
+# Chainguard OIDC token keys
+https://issuer.enforce.dev/keys
