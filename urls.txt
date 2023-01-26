@@ -1,7 +1,13 @@
-# Google OIDC token keys
+# Google OIDC
+https://accounts.google.com/.well-known/openid-configuration
 https://www.googleapis.com/oauth2/v3/certs
 https://www.googleapis.com/oauth2/v2/certs
 https://www.googleapis.com/oauth2/v1/certs
 
-# Chainguard OIDC token keys
+# Chainguard OIDC
+https://issuer.enforce.dev/.well-known/openid-configuration
 https://issuer.enforce.dev/keys
+
+# GitHub OIDC
+https://token.actions.githubusercontent.com/.well-known/openid-configuration
+https://token.actions.githubusercontent.com/.well-known/jwks

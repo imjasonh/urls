@@ -9,5 +9,11 @@ while read l; do
   fn=${l#"https://"}
   echo $fn
   mkdir -p $(dirname $fn)
-  curl $l | jq > $fn
+  curl -s $l | jq > $fn
+  if [ "$(jq 'has("keys")' $fn)" == "true" ]; then
+    jq -S -s 'sort_by(.keys[].kid)' $fn | sponge $fn
+  fi
+  if grep -q "BEGIN CERTIFICATE" $fn; then
+    jq -S '.' $fn | sponge $fn
+  fi
 done < urls.txt
