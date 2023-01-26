@@ -11,3 +11,6 @@ https://issuer.enforce.dev/keys
 # GitHub OIDC
 https://token.actions.githubusercontent.com/.well-known/openid-configuration
 https://token.actions.githubusercontent.com/.well-known/jwks
+
+# GitHub API meta
+https://api.github.com/meta
