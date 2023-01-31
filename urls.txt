@@ -14,3 +14,8 @@ https://token.actions.githubusercontent.com/.well-known/jwks
 
 # GitHub API meta
 https://api.github.com/meta
+
+# Gitlab OIDC
+https://gitlab.com/.well-known/openid-configuration
+https://gitlab.com/oauth/discovery/keys
+
