@@ -19,3 +19,6 @@ https://api.github.com/meta
 https://gitlab.com/.well-known/openid-configuration
 https://gitlab.com/oauth/discovery/keys
 
+# Apple OIDC
+https://appleid.apple.com/.well-known/openid-configuration
+https://appleid.apple.com/auth/keys
