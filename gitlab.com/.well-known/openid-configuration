@@ -14,6 +14,8 @@
     "write_repository",
     "read_registry",
     "write_registry",
+    "read_observability",
+    "write_observability",
     "sudo",
     "admin_mode",
     "openid",
