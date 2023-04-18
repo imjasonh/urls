@@ -22,3 +22,7 @@ https://gitlab.com/oauth/discovery/keys
 # Apple OIDC
 https://appleid.apple.com/.well-known/openid-configuration
 https://appleid.apple.com/auth/keys
+
+# Microsoft OIDC
+https://login.microsoft.com/common/.well-known/openid-configuration
+https://login.microsoft.com/common/discovery/keys
