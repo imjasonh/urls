@@ -26,3 +26,7 @@ https://appleid.apple.com/auth/keys
 # Microsoft OIDC
 https://login.microsoft.com/common/.well-known/openid-configuration
 https://login.microsoft.com/common/discovery/keys
+
+# Terraform Cloud OIDC
+https://app.terraform.io/.well-known/openid-configuration
+https://app.terraform.io/.well-known/jwks
