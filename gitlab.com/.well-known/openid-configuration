@@ -10,6 +10,7 @@
     "api",
     "read_api",
     "read_user",
+    "create_runner",
     "read_repository",
     "write_repository",
     "read_registry",
