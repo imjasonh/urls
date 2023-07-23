@@ -3,14 +3,6 @@
     {
       "alg": "RS256",
       "e": "AQAB",
-      "kid": "676da9d312c39a429932f543e6c1b6e6512e4983",
-      "kty": "RSA",
-      "n": "khHQPa75Xf95y1DGdlab8r_Soe9Tklk3Xi0yZhANb2E6YMqci6pYk_6qDVyKr_ixMzH_I6TQxJJNnLtEHrU3-8pTyKzX59kBncOdPoeJRAYYuW1D-ywgYKVVTCwfTQwugLFxcVKYSyKUpoRSunw1K8EJqjsQsCIGIJ9uqGW3SI0FW6AoMlQ7XulrAUqn4agIFFNwszLy9hflSpL2MwCVq0uBL1YWiCXkrsAZrgql9ICW2H9l6BnVL9QFETz84nB_aqGyMwwWoE8bkiVahBaNYw04f2SKqT_nS4FtogorYRPtvJB-ZK0dgMO6_Rdv9z1q4tmxga9qU7ErYPwTPe9Zvw",
-      "use": "sig"
-    },
-    {
-      "alg": "RS256",
-      "e": "AQAB",
       "kid": "a3bdbfdede3babb2651afca2678dde8c0b35df76",
       "kty": "RSA",
       "n": "wYvSKSQYKnGNV72_uVc9jbyUeTMsMbUgZPP0uVQX900To7A8a0XA3O17wuImgOG_BwGkpZrIRXF_RRYSK8IOH8N_ViTWh1vyEYSYwr_jfCpDoedJT0O6TZpBhBSmimtmO8ZBCkhZJ4w0AFNIMDPhMokbxwkEapjMA5zio_06dKfb3OBNmrwedZY86W1204-Pfma9Ih15Dm4o8SNFo5Sl0NNO4Ithvj2bbg1Bz1ydE4lMrXdSQL5C2uM9JYRJLnIjaYopBENwgf2Egc9CdVY8tr8jED-WQB6bcUBhDV6lJLZbpBlTHLkF1RlEMnIV2bDo02CryjThnz8l_-6G_7pJww",
