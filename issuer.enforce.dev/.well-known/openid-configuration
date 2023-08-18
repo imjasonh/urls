@@ -9,7 +9,12 @@
     "exp",
     "iat",
     "iss",
-    "sub"
+    "sub",
+    "act",
+    "email",
+    "email_verified",
+    "cap",
+    "upstream"
   ],
   "response_types_supported": [
     "id_token"
