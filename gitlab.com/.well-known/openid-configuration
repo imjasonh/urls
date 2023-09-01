@@ -11,6 +11,7 @@
     "read_api",
     "read_user",
     "create_runner",
+    "k8s_proxy",
     "read_repository",
     "write_repository",
     "read_registry",
