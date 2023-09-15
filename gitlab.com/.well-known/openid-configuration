@@ -18,6 +18,7 @@
     "write_registry",
     "read_observability",
     "write_observability",
+    "ai_features",
     "sudo",
     "admin_mode",
     "openid",
