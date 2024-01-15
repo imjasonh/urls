@@ -21,6 +21,7 @@
     "ai_features",
     "sudo",
     "admin_mode",
+    "read_service_ping",
     "openid",
     "profile",
     "email"
