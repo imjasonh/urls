@@ -23,6 +23,7 @@
     "repository_owner",
     "repository_owner_id",
     "enterprise",
+    "enterprise_id",
     "run_id",
     "run_number",
     "run_attempt",
