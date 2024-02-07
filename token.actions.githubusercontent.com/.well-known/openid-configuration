@@ -42,7 +42,8 @@
     "job_workflow_ref",
     "job_workflow_sha",
     "repository_visibility",
-    "runner_environment"
+    "runner_environment",
+    "issuer_scope"
   ],
   "id_token_signing_alg_values_supported": [
     "RS256"
