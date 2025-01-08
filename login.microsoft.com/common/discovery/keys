@@ -27,18 +27,6 @@
     {
       "kty": "RSA",
       "use": "sig",
-      "kid": "YTceO5IJyyqR6jzDS5iAbpe42Jw",
-      "x5t": "YTceO5IJyyqR6jzDS5iAbpe42Jw",
-      "n": "ieQwBxFWmWZaQ32uVFUu8DiwrWMG9U95AKJMTruqVSKf8bIy25MKo25YntqW8etdn5IBCehDfSrPNtjGT0uIsiRdGVfqJFvTfqszWxho0nNN8RUecVuqSRSmCaaV9sCBcU40d1rXtNoHbh5V2hDSfKAbLAldN0DgW3Anp_YsMfGr6qrSuE4Ynm2P2k0e_2eKfhcvS9fe2_WNb_6sr09ZedY4yQVUVaiW16OIxlwcVesXxc3iQV19T9uAtlajtpCuiAQsu47lEjuggSDmIgl8B0i67UCUWCNezz4ylcQQRjUi-ba95HMYfnFPDkapZzK16Qx2IHoVzzytOfse7ZqFUQ",
-      "e": "AQAB",
-      "x5c": [
-        "MIIC/jCCAeagAwIBAgIJAJZMx/LQIwFdMA0GCSqGSIb3DQEBCwUAMC0xKzApBgNVBAMTImFjY291bnRzLmFjY2Vzc2NvbnRyb2wud2luZG93cy5uZXQwHhcNMjUwMTA0MDQzNDM0WhcNMzAwMTA0MDQzNDM0WjAtMSswKQYDVQQDEyJhY2NvdW50cy5hY2Nlc3Njb250cm9sLndpbmRvd3MubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAieQwBxFWmWZaQ32uVFUu8DiwrWMG9U95AKJMTruqVSKf8bIy25MKo25YntqW8etdn5IBCehDfSrPNtjGT0uIsiRdGVfqJFvTfqszWxho0nNN8RUecVuqSRSmCaaV9sCBcU40d1rXtNoHbh5V2hDSfKAbLAldN0DgW3Anp/YsMfGr6qrSuE4Ynm2P2k0e/2eKfhcvS9fe2/WNb/6sr09ZedY4yQVUVaiW16OIxlwcVesXxc3iQV19T9uAtlajtpCuiAQsu47lEjuggSDmIgl8B0i67UCUWCNezz4ylcQQRjUi+ba95HMYfnFPDkapZzK16Qx2IHoVzzytOfse7ZqFUQIDAQABoyEwHzAdBgNVHQ4EFgQUgYhwGR0+XNfmFTvUNMGZmR9iQP4wDQYJKoZIhvcNAQELBQADggEBAGd81nj7DhZrh9lPdEoMCMbc2BwWphfq28n18CH2wUKmzadGLbQgcjD0QLrNpJUeI18511PCjE4AhzD7cXY+1m0AMYEn63wDDa4uDrgFpVMUZtnvdgWgPytLgqLmAN1O7n5TirOBPh5mbOab2hZXUe9PlRT/F8UJRWqtH5yA0LloZ0wJ30wChwfC2Jc8Q79S7kS8ZnHqMFS/WW8FYbAl6v/mK1UqBUp2QNtZIwSMsAHa9cfUq5o5CxI3oaj85pCvfz4SF4XGupuq5zTYKvbOQJ8ggikItbZfwum23UKFHv9J3sxWgimeH0A5TUPw1iWbrQ7dCkEr5omzt15yfUf26rs="
-      ],
-      "cloud_instance_name": "microsoftonline.com"
-    },
-    {
-      "kty": "RSA",
-      "use": "sig",
       "kid": "xVfJbrcGlM6Lo7IbuotYe6ZmGX4",
       "x5t": "xVfJbrcGlM6Lo7IbuotYe6ZmGX4",
       "n": "mTrOd9Jnasu_V3lDoT6hTHNd7Hxn_BmyypS9PhgqFLaMkjvQMfbs3twRu1qAYeXtiKPofgAIHdbHZcBuoufgAcsl6CE2Rcpbcmk8dLlt8VyajkcSifNfWkZjOUrOocTM1E_ut_-fkNbpXFXNfXHDwDnNJ3Fclx5oIDxVmcfUxr52SgayDpd9PRqxckl5YW3cr_jHYxhWQgV1AmI8TLO60g_In0XUCwniT9Us6EbqvyT5KzNE7mET6Apjh9HZBOEH4Cuxt4_KNV1y1m63hh5HNVAZvfFLDX7kZAfUkYR-lVQSCrRRQ44wzKNPHjobuCVS0sTxET7cDV2kM8v1sHBuKQ",
