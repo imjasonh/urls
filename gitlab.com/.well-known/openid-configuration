@@ -13,6 +13,7 @@
     "create_runner",
     "manage_runner",
     "k8s_proxy",
+    "self_rotate",
     "read_repository",
     "write_repository",
     "read_registry",
