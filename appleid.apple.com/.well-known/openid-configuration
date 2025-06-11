@@ -1,9 +1,9 @@
 {
-  "issuer": "https://account.apple.com",
-  "authorization_endpoint": "https://account.apple.com/auth/authorize",
-  "token_endpoint": "https://account.apple.com/auth/token",
-  "revocation_endpoint": "https://account.apple.com/auth/revoke",
-  "jwks_uri": "https://account.apple.com/auth/keys",
+  "issuer": "https://appleid.apple.com",
+  "authorization_endpoint": "https://appleid.apple.com/auth/authorize",
+  "token_endpoint": "https://appleid.apple.com/auth/token",
+  "revocation_endpoint": "https://appleid.apple.com/auth/revoke",
+  "jwks_uri": "https://appleid.apple.com/auth/keys",
   "response_types_supported": [
     "code"
   ],
