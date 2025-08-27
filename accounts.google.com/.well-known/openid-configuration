@@ -16,6 +16,11 @@
     "code token id_token",
     "none"
   ],
+  "response_modes_supported": [
+    "query",
+    "fragment",
+    "form_post"
+  ],
   "subject_types_supported": [
     "public"
   ],
