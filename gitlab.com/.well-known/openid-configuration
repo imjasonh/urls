@@ -81,7 +81,13 @@
     "groups_direct",
     "https://gitlab.org/claims/groups/owner",
     "https://gitlab.org/claims/groups/maintainer",
-    "https://gitlab.org/claims/groups/developer"
+    "https://gitlab.org/claims/groups/developer",
+    "project_path",
+    "ci_config_ref_uri",
+    "ref_path",
+    "sha",
+    "environment",
+    "jti"
   ],
   "code_challenge_methods_supported": [
     "plain",
