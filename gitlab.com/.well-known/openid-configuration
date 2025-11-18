@@ -15,7 +15,6 @@
     "k8s_proxy",
     "self_rotate",
     "mcp",
-    "granular",
     "read_repository",
     "write_repository",
     "read_registry",
