@@ -58,5 +58,6 @@
     "refresh_token",
     "urn:ietf:params:oauth:grant-type:device_code",
     "urn:ietf:params:oauth:grant-type:jwt-bearer"
-  ]
+  ],
+  "authorization_response_iss_parameter_supported": true
 }
