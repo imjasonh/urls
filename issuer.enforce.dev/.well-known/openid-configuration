@@ -17,9 +17,22 @@
     "upstream"
   ],
   "response_types_supported": [
-    "id_token"
+    "id_token",
+    "code"
   ],
   "subject_types_supported": [
     "public"
+  ],
+  "authorization_endpoint": "https://issuer.enforce.dev/authorize",
+  "token_endpoint": "https://issuer.enforce.dev/token",
+  "registration_endpoint": "https://issuer.enforce.dev/register",
+  "grant_types_supported": [
+    "authorization_code"
+  ],
+  "code_challenge_methods_supported": [
+    "S256"
+  ],
+  "token_endpoint_auth_methods_supported": [
+    "none"
   ]
 }
