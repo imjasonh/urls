@@ -6436,6 +6436,10 @@
         "productionresultssa17.blob.core.windows.net",
         "productionresultssa18.blob.core.windows.net",
         "productionresultssa19.blob.core.windows.net",
+        "hosted-compute-request-orchestrator-prod-iad-01.githubapp.com",
+        "hosted-compute-request-orchestrator-prod-iad-02.githubapp.com",
+        "hosted-compute-request-orchestrator-prod-eus-01.githubapp.com",
+        "hosted-compute-request-orchestrator-prod-eus-02.githubapp.com",
         "mpsghub.actions.githubusercontent.com",
         "pipelinesghubeus1.actions.githubusercontent.com",
         "pipelinesghubeus10.actions.githubusercontent.com",
@@ -6479,6 +6483,7 @@
       "wildcard_domains": [
         "*.githubusercontent.com",
         "*.core.windows.net",
+        "*.githubapp.com",
         "*.github.com",
         "github.com",
         "ghcr.io"
