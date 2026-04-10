@@ -6322,6 +6322,15 @@
       "*.githubusercontent.com"
     ],
     "actions": [
+      "github.com",
+      "*.github.com",
+      "*.githubapp.com",
+      "ghcr.io",
+      "objects.githubusercontent.com",
+      "objects-origin.githubusercontent.com",
+      "github-releases.githubusercontent.com",
+      "github-registry-files.githubusercontent.com",
+      "release-assets.githubusercontent.com",
       "*.actions.githubusercontent.com",
       "productionresultssa0.blob.core.windows.net",
       "productionresultssa1.blob.core.windows.net",
