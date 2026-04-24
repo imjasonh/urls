@@ -44,7 +44,6 @@
   ],
   "grant_types_supported": [
     "authorization_code",
-    "password",
     "client_credentials",
     "device_code",
     "refresh_token"
