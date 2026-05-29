@@ -71,6 +71,8 @@
     "name",
     "nickname",
     "preferred_username",
+    "given_name",
+    "family_name",
     "email",
     "email_verified",
     "website",
