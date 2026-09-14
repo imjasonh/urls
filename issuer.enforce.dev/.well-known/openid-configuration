@@ -11,6 +11,7 @@
     "iss",
     "sub",
     "act",
+    "act_chain",
     "email",
     "email_verified",
     "cap",
