@@ -12,6 +12,7 @@
     "sub",
     "act",
     "act_chain",
+    "task",
     "email",
     "email_verified",
     "cap",
